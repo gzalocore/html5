@@ -10,36 +10,35 @@
 
 # Etiquetas 
 
- <!-- Etiquetas
+Etiquetas:
      de apertura de cierre
      self closing
- -->
 
-<!-- Atributos
+
+Atributos
     opcionales
     obligatorios
--->
 
-<!--Encabezados-->
+Encabezados
 <h2>Titulo</h2>
 <h3>Titulo</h3>
 <h4>Titulo</h4>
 <h5>Titulo</h5>
 <h6>Titulo</h6>
 
-<!--Parrafos-->
+Parrafos
 <p>bloque de texto</p>
 
-<!-- Tipo de elementos
+ipo de elementos
     Elementos de bloque
-    Elementos inline-->
+    Elementos inline
 
 <span>bloque de texto</span>
 <span>bloque de texto</span>
 <div>
 </div>
 
-<!-- Etiquetas semanticas de html5 
+Etiquetas semanticas de html5 
     header: Contenido introducorio del ancestro mas cercano
     footer: Para poner pie de pagina a una seccion o contenido
     nav: Navegacion, para menus
@@ -47,5 +46,4 @@
     Article: contenido independiente, pero completo. Se recomienda usar header y article
 	Aside: Contenido no relacionado
 	Main: Contenido principal de la pagina
--->
 
